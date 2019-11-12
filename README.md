@@ -5,7 +5,7 @@ API REST do Backend do GoBarber em Node.JS, do bootcamp da RocketSeat
 
 Será necessário primeiramente instalar as dependencias: npm install ou yarn.
 
-Além das dependencias, foi utilizado banco MYSQL para os dados relacionais.
+Além das dependencias, foi utilizado o DOCKER, com banco MYSQL para os dados relacionais.
 
 MONGODB para dados não relacionais a fim de ganhar desempenho.
 
